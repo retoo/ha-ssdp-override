@@ -1,0 +1,8 @@
+{
+  "domain": "ssdp",
+  "name": "SSDP (Disabled)",
+  "version": "1.0.0",
+  "documentation": "https://github.com/home-assistant/core/issues/162860",
+  "codeowners": [],
+  "integration_type": "system"
+}
